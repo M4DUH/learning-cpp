@@ -1,5 +1,3 @@
-// By: Eduarda Mota - GitHub @M4DUH
-// Dando mais um grande passo, vamos fazer o código de um sensor ultrassônico.
 
 // Declaramos as variáveis e as constantes.
 int pinTrig = 12;
