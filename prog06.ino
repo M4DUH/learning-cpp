@@ -1,5 +1,5 @@
 // By: Eduarda Mota - GitHub @M4DUH
-// Semáforo ativado com botão.
+// Objetivo: Semáforo ativado com botão.
 
 // Declaração das variáveis.
 int vermelho = 7;
