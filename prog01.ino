@@ -1,5 +1,5 @@
 // By: Eduarda Mota - GitHub: @M4DUH
-// O objetivo desse circuito é acender um único led.
+// Objetivo: Ligar um led.
 
 int Led = 11;         //Declara-se a variável referente ao pino do led, aqui está sendo usado o pino 11.
 
