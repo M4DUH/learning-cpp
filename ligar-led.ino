@@ -8,5 +8,5 @@ void setup() {             //Essa é a função inicial do nosso código, será 
 }
 
 void loop() {                    //O void loop é a função que vai ficar rodando literalmente em loop, então aqui colocamos aquilo que queremos que seja executado.
-  digitalWrite (led, HIGH);     //Desse modo falamos para o arduino que queremos o led LIGADO = HIGH, e a mágica (nada mágica) ocorre.
+  digitalWrite (Led, HIGH);     //Desse modo falamos para o arduino que queremos o led LIGADO = HIGH, e a mágica (nada mágica) ocorre.
 }
