@@ -1,7 +1,6 @@
 // By: Eduarda Mota - GitHub @M4DUH
-// No seguinte código vamos ver como se liga um led através de um butão. Não é nada com muito babado não, só apertou, ligou, tirou o dedo, desligou.
+// Objetivo: ligar um led através de um butão.
 
-// Começando do começo, declarando as variáveis.
 int ledPin = 4;
 int buttonPin = 12;
 int estadoButton = 0;  // Declaramos aqui o estado do botão, sendo ele zero, onde qualquer alterção pode se usada.
