@@ -1,5 +1,5 @@
 // By: Eduarda Mota - Git Hub: @M4DUH
-// Este circuito tem como objetivo fazer um semáforo de tráfego funcionando em conjunto com um semáforo de pedestre, 5 leds ao total, todas ligadas a diferentes pinos, já desempenharão funções diferentes entre si.
+// Objetivo: fazer um semáforo de tráfego funcionando em conjunto com um semáforo de pedestre, 5 leds ao total, todas ligadas a diferentes pinos, já desempenharão funções diferentes entre si.
 
 
 // Começamos da forma tradicional, adicionando as variáveis. Para uma melhor compreensão, cada led está identificada por sua respectiva cor, no semáforo de pedestres tendo o adicional da letra "P".
