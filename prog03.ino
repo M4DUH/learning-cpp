@@ -1,6 +1,5 @@
 // By: Eduarda Mota - GitHub @M4DUH
-// Dia de fazer semáforo, ligar 3 leds, mas com uma lógica diferente da outra. Vamos ao ponto.
-
+// Objetivo: fazer um semáforo simples.
 
 // Damos início declarando as variáveis, neste circuito cada led vai ter que ser ligada a um pino diferente, pois cada um deles vai executar ao separadamente, caso estivessem todos ligados ao mesmo pino daria uma grande confusão.
 // Usei como nome da variável a cor de seu respectivo led, dessa forma fica mais fácil de entender e até mesmo de não embaralhar as coisas.
