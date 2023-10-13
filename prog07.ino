@@ -1,3 +1,4 @@
+// Objetivo: Usar o ultrassõnico.
 
 // Declaramos as variáveis e as constantes.
 int pinTrig = 12;
