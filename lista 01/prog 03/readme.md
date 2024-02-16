@@ -56,4 +56,4 @@ Ficou com dúvida? Não tenha medo de pesquisar. Aqui deixarei alguns links que 
 [Lei de ohm, Tensão, Corrente, Resistência](https://embarcados.com.br/lei-de-ohm/)\
 [Documentação de Referência da Linguagem Arduino](https://www.arduino.cc/reference/pt/)\
 [Ligação em série ou ligação em paralelo?](https://www.mundodaeletrica.com.br/ligacao-em-serie-ou-ligacao-em-paralelo/)\
-[Como criar um semáforo com Arduino](https://www.makerhero.com/blog/como-criar-um-semaforo-com-arduino/)\
+[Como criar um semáforo com Arduino](https://www.makerhero.com/blog/como-criar-um-semaforo-com-arduino/)
